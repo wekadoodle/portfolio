@@ -11,5 +11,6 @@ BS Management Information Systems - MS Computer Science (2022 - Present)
 **[Data Visualization of Startup Investments Dataset](https://github.com/wekadoodle/DataViz_Startup_Investments)**
 - A data visualization project on the Startup Investments dataset using Tableau.
 
-**[Machine Learning Project on Wafer Defects]**
+**[Machine Learning Project on Wafer Defects](https://github.com/wekadoodle/ML_WaferDefect)**
+- A machine learning project that uses classical machine learning algorithms and neural networks to identify mixed-type wafer defects.
 
