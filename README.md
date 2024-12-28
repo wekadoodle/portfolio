@@ -8,4 +8,8 @@ BS Management Information Systems - MS Computer Science (2022 - Present)
 *Specialization in Data Science and Analytics; Minor in Financial Management*
 
 ### Projects
-**Data Visualization of Startup Investments Dataset**
+**[Data Visualization of Startup Investments Dataset](https://github.com/wekadoodle/DataViz_Startup_Investments)**
+- A data visualization project on the Startup Investments dataset using Tableau.
+
+**[Machine Learning Project on Wafer Defects]**
+
