@@ -9,18 +9,3 @@ BS Management Information Systems - MS Computer Science (2022 - Present)</br>
 
 ### Projects
 **Data Visualization of Startup Investments Dataset**
-- lorem ipsum
-
-- d
-
-- d
-
-- d
-- d
-- d
-- d
-- d
-
-- d
-- d
-- d
